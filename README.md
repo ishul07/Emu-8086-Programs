@@ -10,3 +10,5 @@ this repository contains assembly language programs which are written in assembl
 8. Division of two 16 bit numbers
 9. ASCII addition of two decimal numbers
 10. ASCII subtraction of two decimal numbers
+11. ASCII multiplication of two decimal numbers
+12. ASCII division of two decimal numbers
