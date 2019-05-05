@@ -9,4 +9,4 @@ this repository contains assembly language programs which are written in assembl
 7. Division of two 8 bit numbers
 8. Division of two 16 bit numbers
 9. ASCII addition of two decimal numbers
-10.ASCII subtraction of two decimal numbers
+10. ASCII subtraction of two decimal numbers
