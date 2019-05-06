@@ -12,3 +12,7 @@ this repository contains assembly language programs which are written in assembl
 10. ASCII subtraction of two decimal numbers
 11. ASCII multiplication of two decimal numbers
 12. ASCII division of two decimal numbers
+13. Packed number to unpacked bcd number
+14. packednumber to ascii number
+15. Sort array elements
+16. Add Corresponding array elements
